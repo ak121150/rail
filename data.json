@@ -1,0 +1,259 @@
+{
+   "trains":[
+      {
+         "type":"MAIL_EXP",
+         "dest":{
+            "lng":75.3340992,
+            "lat":17.677817,
+            "code":"PVR",
+            "name":"PANDHARPUR"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"11001",
+         "source":{
+            "lng":74.4805113,
+            "lat":19.7806599,
+            "code":"SNSI",
+            "name":"SAINAGAR SIRIDI"
+         },
+         "name":"SNSI-PVR EXP"
+      },
+      {
+         "type":"MAIL_EXP",
+         "dest":{
+            "lng":74.4805113,
+            "lat":19.7806599,
+            "code":"SNSI",
+            "name":"SAINAGAR SIRIDI"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"11002",
+         "source":{
+            "lng":75.3340992,
+            "lat":17.677817,
+            "code":"PVR",
+            "name":"PANDHARPUR"
+         },
+         "name":"PVR-SNSI EXP"
+      },
+      {
+         "type":"SUPERFAST",
+         "dest":{
+            "lng":75.8975502,
+            "lat":17.6715272,
+            "code":"SUR",
+            "name":"SOLAPUR JN"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"12169",
+         "source":{
+            "lng":73.8543185,
+            "lat":18.5203062,
+            "code":"PUNE",
+            "name":"PUNE JN"
+         },
+         "name":"SUR INTERCITY"
+      },
+      {
+         "type":"SUPERFAST",
+         "dest":{
+            "lng":73.8543185,
+            "lat":18.5203062,
+            "code":"PUNE",
+            "name":"PUNE JN"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"12170",
+         "source":{
+            "lng":75.8975502,
+            "lat":17.6715272,
+            "code":"SUR",
+            "name":"SOLAPUR JN"
+         },
+         "name":"PUNE INTERCITY"
+      },
+      {
+         "type":"MAIL_EXP",
+         "dest":{
+            "lng":83.0234741,
+            "lat":24.5178532,
+            "code":"CPU",
+            "name":"CHOPAN"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"14371",
+         "source":{
+            "lng":84.8664572,
+            "lat":26.9040672,
+            "code":"BRWD",
+            "name":"BARWADIH JN"
+         },
+         "name":"TRIBENI EXPRESS"
+      },
+      {
+         "type":"MAIL_EXP",
+         "dest":{
+            "lng":84.8664572,
+            "lat":26.9040672,
+            "code":"BRWD",
+            "name":"BARWADIH JN"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"14372",
+         "source":{
+            "lng":83.0234741,
+            "lat":24.5178532,
+            "code":"CPU",
+            "name":"CHOPAN"
+         },
+         "name":"CHOPAN BARWADIH LINK EXPR"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":78.7732864,
+            "lat":28.8334982,
+            "code":"MB",
+            "name":"MORADABAD"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"54397",
+         "source":{
+            "lng":null,
+            "lat":null,
+            "code":"SHTS",
+            "name":"SAMBHAL HTM SAR"
+         },
+         "name":"SHTS-MB PASSENGER"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":null,
+            "lat":null,
+            "code":"SHTS",
+            "name":"SAMBHAL HTM SAR"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"54398",
+         "source":{
+            "lng":78.7732864,
+            "lat":28.8334982,
+            "code":"MB",
+            "name":"MORADABAD"
+         },
+         "name":"MB-SHTS PASSENGER"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":78.2916193,
+            "lat":30.1086537,
+            "code":"RKSH",
+            "name":"RISHIKESH"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"54481",
+         "source":{
+            "lng":78.1452985,
+            "lat":29.9384473,
+            "code":"HW",
+            "name":"HARIDWAR JN"
+         },
+         "name":"HW-RKSH PAS"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":80.9346001,
+            "lat":26.8381,
+            "code":"LKO",
+            "name":"LUCKNOW"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"64222",
+         "source":{
+            "lng":79.9122455,
+            "lat":27.883744,
+            "code":"SPN",
+            "name":"SHAHJEHANPUR"
+         },
+         "name":"HRI-LKO-HRI MEMU"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":87.3191844,
+            "lat":22.3199194,
+            "code":"HIJ",
+            "name":"HIJILLI"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"68643",
+         "source":{
+            "lng":87.3012875,
+            "lat":22.34309,
+            "code":"KGP",
+            "name":"KHARAGPUR JN"
+         },
+         "name":"KGP-HIJ LOCAL"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":87.3012875,
+            "lat":22.34309,
+            "code":"KGP",
+            "name":"KHARAGPUR JN"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"68644",
+         "source":{
+            "lng":87.3191844,
+            "lat":22.3199194,
+            "code":"HIJ",
+            "name":"HIJILLI"
+         },
+         "name":"HIJ-KGP LOCAL"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":87.3191844,
+            "lat":22.3199194,
+            "code":"HIJ",
+            "name":"HIJILLI"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"68645",
+         "source":{
+            "lng":87.3012875,
+            "lat":22.34309,
+            "code":"KGP",
+            "name":"KHARAGPUR JN"
+         },
+         "name":"KGP-HIJ LOCAL"
+      },
+      {
+         "type":"PASSENGER",
+         "dest":{
+            "lng":87.3012875,
+            "lat":22.34309,
+            "code":"KGP",
+            "name":"KHARAGPUR JN"
+         },
+         "start_time":"25 Dec 2018",
+         "number":"68646",
+         "source":{
+            "lng":87.3191844,
+            "lat":22.3199194,
+            "code":"HIJ",
+            "name":"HIJILLI"
+         },
+         "name":"HIJ-KGP LOCAL"
+      }
+   ],
+   "response_code":200,
+   "debit":1,
+   "total":14
+}
